@@ -1,7 +1,11 @@
 # Boilerplate for Node Packages in typescript
 
+[![npm version](https://badge.fury.io/js/mypackage.svg)](https://www.npmjs.com/package/mypackage)
+[![npm version](https://img.shields.io/npm/v/mypackage.svg)](https://www.npmjs.com/package/mypackage)
 [![Build and Test Package](https://github.com/Nexysweb/boilerplate-node-package/actions/workflows/yarn.yml/badge.svg)](https://github.com/Nexysweb/boilerplate-node-package/actions/workflows/yarn.yml)
 [![Build and Test Package and (publish)](https://github.com/Nexysweb/boilerplate-node-package/actions/workflows/publish.yml/badge.svg)](https://github.com/Nexysweb/boilerplate-node-package/actions/workflows/publish.yml)
+![Code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
+[![Bundlephobia](https://badgen.net/bundlephobia/min/mypackage)](https://bundlephobia.com/result?p=mypackage)
 
 This is a minimalist boilerplate templates for Node NPM packages written in Typescript
 
