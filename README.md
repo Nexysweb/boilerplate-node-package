@@ -7,7 +7,7 @@
 ![Code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
 [![Bundlephobia](https://badgen.net/bundlephobia/min/mypackage)](https://bundlephobia.com/result?p=mypackage)
 
-This is a minimalist boilerplate templates for Node NPM packages written in Typescript
+This is a minimalist boilerplate template for Node NPM packages written in Typescript
 
 ## Get started
 
