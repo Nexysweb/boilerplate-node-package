@@ -27,6 +27,10 @@ This is a minimalist boilerplate templates for Node NPM packages written in Type
 
 Continuous integration is included and works with github actions.
 
+### Adjust Configuration
+
+Make sure you change the path of the badge (both links and images to link to your package/repo). In `package.json` make sure you point to your github repo
+
 ## Publish
 
 In order to publish your package, add the secret variable `NPM_AUTH_TOKEN` to the list of secret variables and release a new version
