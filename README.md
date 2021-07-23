@@ -7,6 +7,8 @@
 [![Code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/)
 [![Bundlephobia](https://badgen.net/bundlephobia/min/mypackage)](https://bundlephobia.com/result?p=mypackage)
 
+
+
 This is a minimalist boilerplate template for Node NPM packages written in Typescript
 
 ## Get started
@@ -30,6 +32,10 @@ Continuous integration is included and works with github actions.
 ### Adjust Configuration
 
 Make sure you change the path of the badge (both links and images to link to your package/repo). In `package.json` make sure you point to your github repo
+
+#### Badges
+
+You can get standard badges by using the following link: https://nexys-system.github.io/repository-badges/?q=mypackage
 
 ## Publish
 
